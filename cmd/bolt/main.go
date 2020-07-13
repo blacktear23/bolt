@@ -19,7 +19,7 @@ import (
 	"unicode/utf8"
 	"unsafe"
 
-	"github.com/boltdb/bolt"
+	"github.com/blacktear23/bolt"
 )
 
 var (
